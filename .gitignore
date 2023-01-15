@@ -1,0 +1,5 @@
+# File env lokal dengan kredensial
+.env
+
+# Direktori ketergantungan
+node_modules
